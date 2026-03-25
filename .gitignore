@@ -1,0 +1,7 @@
+#windows
+thumbs.db
+
+#jarfiles
+*.jar
+
+[xyz]*.txt
